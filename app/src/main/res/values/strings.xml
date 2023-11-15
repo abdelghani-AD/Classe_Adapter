@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Interface_GraphiqueP1</string>
+    <string name="titre">Inscription</string>
+    <string name="nameList">Les informations des Stagiares </string>
+</resources>
